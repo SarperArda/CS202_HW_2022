@@ -1,0 +1,2 @@
+hw3: Dictionary23Tree.cpp  DictionaryAVLTree.cpp  DictionaryBST.cpp  DictionarySearchTree.cpp Dictionary23Tree.h    DictionaryAVLTree.h    DictionaryBST.h    DictionarySearchTree.h    main.cpp
+	g++ -g -o hw3 Dictionary23Tree.cpp  DictionaryAVLTree.cpp  DictionaryBST.cpp  DictionarySearchTree.cpp Dictionary23Tree.h    DictionaryAVLTree.h    DictionaryBST.h    DictionarySearchTree.h    main.cpp -I.

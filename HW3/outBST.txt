@@ -1,0 +1,11 @@
+information    0     6
+algorithms     1     3
+homework       1     5
+word           0     1
+search         1     4
+paper          1     6
+binary         0     3
+exam           1     7
+# of queries: 8
+Maximum # of comparisons: 7
+Average # of comparisons: 4.375
